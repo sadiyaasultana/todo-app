@@ -30,3 +30,5 @@ Currently, the main project files are located in the `/todo-app2` directory.
 
 ##  Contributing
 Contributions, issues, and feature requests are welcome!
+
+<img width="1920" height="1080" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/38335f22-c1c0-43a0-bafd-ab86f022c6cc" />
